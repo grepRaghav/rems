@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+backend/.env
+backend/dev_fallback.db
+venv/
+backend/venv/
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+.DS_Store
+
+# IDE & Editor
+.vscode/
+.idea/
+*.suo
+*.user
